@@ -1,3 +1,5 @@
+Glide是一个快速高效的Android图片及多多媒体加载库
+
 Glide
 =====
 
